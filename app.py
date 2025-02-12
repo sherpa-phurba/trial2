@@ -2,7 +2,7 @@ import streamlit as st
 import pickle 
 import pandas as pd
 # To load model back
-with open('SVCpred.pickle','rb') as file:
+with open('News_Classification.pickle','rb') as file:
     loaded_model = pickle.load(file)
 
 st.title("Text Classification")
