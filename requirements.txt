@@ -1,4 +1,2 @@
-scikit-image @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_d6j00jzmsp/croot/scikit-image_1726737419383/work
-scikit-learn==1.6.1
-streamlit @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_52t8o6xfs8/croot/streamlit_1724335169234/work
-
+scikit-learn
+streamlit
