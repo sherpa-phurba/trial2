@@ -1,3 +1,6 @@
+import os
+os.system("pip install scikit-learn")
+import sklearn
 import streamlit as st 
 import pickle 
 import pandas as pd
